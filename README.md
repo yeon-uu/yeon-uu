@@ -18,6 +18,7 @@ Learning security from an attacker's perspective through a university security c
 
 - **[Mo-lib](https://github.com/Jsowon/Mo-lib)** — Cross-domain (movie · book · music) recommendation service powered by LLM-based sentiment & context analysis. *Team · Docker · PostgreSQL*
 - **[2026-tourapi](https://github.com/yeon-uu/2026-tourapi)** — AI-powered train-station collection web app, built for the Tourism Data Lab Promptathon (관광데이터랩 프롬프톤)
+- **[Roame](https://github.com/taennny/2026-AI-Powered)** — GPS-based app that automatically tracks your daily route and turns it into an AI-written blog, for everyday life and travel. *Team*
 
 ## GitHub Stats
 
