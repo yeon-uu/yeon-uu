@@ -16,10 +16,12 @@ Learning security from an attacker's perspective through a university security c
 
 ## Projects
 
-- **[Mo-lib](https://github.com/Jsowon/Mo-lib)** — Cross-domain (movie · book · music) recommendation service powered by LLM-based sentiment & context analysis. *Team · Docker · PostgreSQL*
+- **[Mo-lib](https://github.com/Jsowon/Mo-lib)** — Cross-domain (movie · book · music) recommendation service powered by LLM-based sentiment & context analysis. *(Team)*
+  - **Backend & infra** — project scaffolding (Docker · PostgreSQL · FastAPI · Alembic · CI), JWT auth, EC2 deployment + CD pipeline, async DB migration, and CI security (Gitleaks · pip-audit)
+- **[Roame](https://github.com/taennny/2026-AI-Powered)** — GPS-based app that automatically tracks your daily route and turns it into an AI-written blog, for everyday life and travel. *(Team)*
+  - **Backend & DevOps** — infra setup (Docker Compose · FastAPI · SQLAlchemy/Alembic · GitHub Actions CI), core APIs (async blog generation, subscriptions, S3-compatible storage), and AI-server integration
 - **[2026-tourapi](https://github.com/yeon-uu/2026-tourapi)** — AI-powered train-station collection web app, built for the Tourism Data Lab Promptathon (관광데이터랩 프롬프톤)
-- **[Roame](https://github.com/taennny/2026-AI-Powered)** — GPS-based app that automatically tracks your daily route and turns it into an AI-written blog, for everyday life and travel. *Team*
 
 ## GitHub Stats
 
-![yeon-uu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-uu&show_icons=true&hide=stars&count_private=true&theme=transparent&hide_border=true)
+![yeon-uu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-uu&show_icons=true&hide=stars&count_private=true&include_all_commits=true&hide_rank=true&theme=transparent&hide_border=true)
