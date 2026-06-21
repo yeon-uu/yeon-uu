@@ -21,5 +21,4 @@ Learning security from an attacker's perspective through a university security c
 
 ## GitHub Stats
 
-![yeon-uu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-uu&show_icons=true&hide=stars&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon-uu&layout=compact&langs_count=6)
+![yeon-uu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeon-uu&show_icons=true&hide=stars&count_private=true&theme=transparent&hide_border=true)
