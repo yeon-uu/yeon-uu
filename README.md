@@ -1,10 +1,10 @@
 # yeon-uu
 
-Python·FastAPI로 백엔드를 개발하는 학부생입니다.
+백엔드를 개발하는 학부생입니다.
 보안 동아리에서 공격 관점을 배우며, 안전한 서버를 짜는 데 관심이 많습니다.
 
 - 지금 하는 것: Instagram Graph API 자동 게시 파이프라인 개발
-- 연락: dyu4871@gmail.com
+- 연락: dyu8765@gmail.com
 
 ## 기술 스택
 
