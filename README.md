@@ -30,9 +30,9 @@ Learning security from an attacker's perspective through a university security c
 ### Backend (Team)
 
 - **[Mo-lib](https://github.com/Jsowon/Mo-lib)** — Cross-domain (movie · book · music) recommendation service powered by LLM-based sentiment & context analysis.
-  - **Backend & infra** — project scaffolding (Docker · PostgreSQL · FastAPI · Alembic · CI), JWT auth, EC2 deployment + CD pipeline, async DB migration, and CI security (Gitleaks · pip-audit)
+  - **Backend & infra** — Owned the backend foundation: scaffolding, CI, and JWT auth. Shipped automated EC2 deployment (CD), migrated the DB layer to async (fixing server 500s), and hardened CI with secret scanning (Gitleaks) + dependency audits (pip-audit).
 - **[Roame](https://github.com/taennny/2026-AI-Powered)** — GPS-based app that automatically tracks your daily route and turns it into an AI-written blog, for everyday life and travel.
-  - **Backend & DevOps** — infra setup (Docker Compose · FastAPI · SQLAlchemy/Alembic · GitHub Actions CI), core APIs (async blog generation, subscriptions, S3-compatible storage), and AI-server integration
+  - **Backend & DevOps** — Built the backend and CI from scratch, then implemented the core APIs (async blog generation, subscriptions, S3-compatible storage) and the AI-server integration. Coordinated API contracts across the front-end and AI teams.
 
 ### Full-stack (Solo)
 
