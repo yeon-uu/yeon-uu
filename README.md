@@ -36,7 +36,8 @@ Learning security from an attacker's perspective through a university security c
 
 ### Full-stack (Solo)
 
-- **[2026-tourapi](https://github.com/yeon-uu/2026-tourapi)** — AI-powered train-station collection web app, built end-to-end solo for the Tourism Data Lab Promptathon (관광데이터랩 프롬프톤)
+- **[2026-tourapi](https://github.com/yeon-uu/2026-tourapi)** — AI-powered web app that turns a randomly drawn train station into a themed local mission and archives each visit as a stamp, weighted toward depopulation-risk regions. Built end-to-end solo for the Tourism Data Lab Promptathon (관광데이터랩 프롬프톤) — **finalist (15 teams selected from ~200 submissions)**.
+  - **Architecture & implementation** — Wrapped the public TourAPI in a TTL cache to respect rate limits, designed a weighted-scoring algorithm to surface depopulation-risk regions, and built the AI-driven mission/recommendation flow end to end. FastAPI · PostgreSQL · Docker.
 
 ## 📊 GitHub Stats
 
