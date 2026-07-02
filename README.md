@@ -34,9 +34,9 @@ Learning security from an attacker's perspective through a university security c
 - **[Roame](https://github.com/taennny/2026-AI-Powered)** — GPS-based app that automatically tracks your daily route and turns it into an AI-written blog, for everyday life and travel.
   - **Backend & DevOps** — Built the backend and CI from scratch, then implemented the core APIs (async blog generation, subscriptions, S3-compatible storage) and the AI-server integration. Coordinated API contracts across the front-end and AI teams.
 
-### Full-stack (Solo)
+### Full-stack (Sole developer)
 
-- **[2026-tourapi](https://github.com/yeon-uu/2026-tourapi)** — AI-powered web app that turns a randomly drawn train station into a themed local mission and archives each visit as a stamp, weighted toward depopulation-risk regions. Built end-to-end solo for the Tourism Data Lab AI Promptathon (관광데이터랩 프롬프톤) — **finalist: top 15 of 574 teams (195 passed the preliminary round)**.
+- **[2026-tourapi](https://github.com/yeon-uu/2026-tourapi)** — AI-powered web app that turns a randomly drawn train station into a themed local mission and archives each visit as a stamp, weighted toward depopulation-risk regions. Sole developer on a 3-person team (planning/UI-design and prompt-engineering teammates) — built the entire codebase (backend · front-end · infra) for the Tourism Data Lab AI Promptathon (관광데이터랩 프롬프톤) — **finalist: top 15 of 574 teams (195 passed the preliminary round)**.
   - **Architecture & implementation** — Wrapped the public TourAPI in a TTL cache to respect rate limits, designed a weighted-scoring algorithm to surface depopulation-risk regions, and built the AI-driven mission/recommendation flow end to end. FastAPI · PostgreSQL · Docker.
 
 ## 📫 Contact
