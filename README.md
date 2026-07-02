@@ -25,19 +25,23 @@ Learning security from an attacker's perspective through a university security c
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
 
-## 📂 Projects
+## 🚀 Projects
 
 ### Backend (Team)
 
-- **[Mo-lib](https://github.com/Jsowon/Mo-lib)** — Cross-domain (movie · book · music) recommendation service powered by LLM-based sentiment & context analysis.
-  - **Backend & infra** — Owned the backend foundation: scaffolding, CI, and JWT auth. Shipped automated EC2 deployment (CD), migrated the DB layer to async (fixing server 500s), and hardened CI with secret scanning (Gitleaks) + dependency audits (pip-audit).
+- **[Mo-lib](https://github.com/yeon-uu/Mo-lib)** — Cross-domain (movie · book · music) recommendation service powered by LLM-based sentiment & context analysis.
+  - **Backend & infra** — Owned the backend foundation: scaffolding, CI, and JWT auth. Shipped automated EC2 deployment (CD), migrated the DB layer to async (fixing server 500s), and hardened CI with secret scanning (Gitleaks) + dependency audits (pip-audit). My contributions are documented in the fork README.
 - **[Roame](https://github.com/taennny/2026-AI-Powered)** — GPS-based app that automatically tracks your daily route and turns it into an AI-written blog, for everyday life and travel.
   - **Backend & DevOps** — Built the backend and CI from scratch, then implemented the core APIs (async blog generation, subscriptions, S3-compatible storage) and the AI-server integration. Coordinated API contracts across the front-end and AI teams.
 
 ### Full-stack (Solo)
 
-- **[2026-tourapi](https://github.com/yeon-uu/2026-tourapi)** — AI-powered web app that turns a randomly drawn train station into a themed local mission and archives each visit as a stamp, weighted toward depopulation-risk regions. Built end-to-end solo for the Tourism Data Lab Promptathon (관광데이터랩 프롬프톤) — **finalist (15 teams selected from ~200 submissions)**.
+- **[2026-tourapi](https://github.com/yeon-uu/2026-tourapi)** — AI-powered web app that turns a randomly drawn train station into a themed local mission and archives each visit as a stamp, weighted toward depopulation-risk regions. Built end-to-end solo for the Tourism Data Lab AI Promptathon (관광데이터랩 프롬프톤) — **finalist: top 15 of 574 teams (195 passed the preliminary round)**.
   - **Architecture & implementation** — Wrapped the public TourAPI in a TTL cache to respect rate limits, designed a weighted-scoring algorithm to surface depopulation-risk regions, and built the AI-driven mission/recommendation flow end to end. FastAPI · PostgreSQL · Docker.
+
+## 📫 Contact
+
+- Email: **dyu8765@gmail.com**
 
 ## 📊 GitHub Stats
 
