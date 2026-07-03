@@ -3,7 +3,7 @@
 Backend developer (undergrad) building servers with **Python · FastAPI**.
 Learning security from an attacker's perspective through a university security club.
 
-> Currently building an Instagram Graph API auto-posting pipeline.
+> Currently building: MOFA contest, Library contest
 
 ## 🛠 Tech Stack
 
