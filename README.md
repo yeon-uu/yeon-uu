@@ -3,7 +3,7 @@
 Backend developer (undergrad) building servers with **Python · FastAPI**.
 Learning security from an attacker's perspective through a university security club.
 
-> Currently building: MOFA contest, Library contest
+> Currently building:  Library contest
 
 ## 🛠 Tech Stack
 
