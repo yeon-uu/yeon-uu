@@ -3,8 +3,6 @@
 Backend developer (undergrad) building servers with **Python · FastAPI**.
 Learning security from an attacker's perspective through a university security club.
 
-> Currently building:  Library contest
-
 ## 🛠 Tech Stack
 
 **Backend** &nbsp;
@@ -31,8 +29,9 @@ Learning security from an attacker's perspective through a university security c
 
 - **[Mo-lib](https://github.com/yeon-uu/Mo-lib)** — Cross-domain (movie · book · music) recommendation service powered by LLM-based sentiment & context analysis.
   - **Backend & infra** — Owned the backend foundation: scaffolding, CI, and JWT auth. Shipped automated EC2 deployment (CD), migrated the DB layer to async (fixing server 500s), and hardened CI with secret scanning (Gitleaks) + dependency audits (pip-audit). My contributions are documented in the fork README.
-- **[Roame](https://github.com/yeon-uu/2026-AI-Powered)** — GPS-based app that automatically tracks your daily route and turns it into an AI-written blog, for everyday life and travel.
+- **[Roame](https://github.com/yeon-uu/2026-AI-Powered)** — GPS-based app that automatically tracks your daily route and turns it into an AI-written blog, for everyday life and travel. *(Mar–Sep 2026 · ran a closed beta)*
   - **Backend & DevOps** — Built the backend and CI from scratch, then implemented the core APIs (async blog generation, subscriptions, S3-compatible storage) and the AI-server integration. Coordinated API contracts across the front-end and AI teams.
+  - **Deployment & reliability** — Set up pull-based CD (GitHub Actions → GHCR → EC2) with automatic HTTPS (Caddy), designed an idempotent RevenueCat subscription webhook (verified in sandbox), and grew the test suite from 12 to 137.
 
 ### Full-stack (Sole developer)
 
